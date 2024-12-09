@@ -37,3 +37,7 @@ __pycache__/
 *~
 .~lock.*
 *.idea
+
+build/*
+.vscode/*
+.venv/*
